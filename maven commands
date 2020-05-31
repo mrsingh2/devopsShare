@@ -1,0 +1,3 @@
+mvn clean        To clean temporary build files
+mvn clean install      To clean and prepare the build from source code
+mvn clean test        To clean and execute the unit test cases
