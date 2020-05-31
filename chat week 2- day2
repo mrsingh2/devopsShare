@@ -1,0 +1,892 @@
+from Musaddiq86  to All Participants:
+something went wrong with my laptop.
+from Musaddiq86  to All Participants:
+i am attending from cell phone.
+from Jacob.mani1704 to All Participants:
+ok
+from Arindam.mallik to All Participants:
+Training started?
+from Srikarnelly to All Participants:
+please access lab
+from koteeswaran kandasamy to All Participants:
+hi goodmorning
+from Swathi Balasubramanian to All Participants:
+Anuj, I see an option called monitor on Jenkins. What is it for?
+from Nirajpatilpune to All Participants:
+We just need to take backup of the conifig.xml inside jenkins in order to prevent any configuration loss so that we can replace the backup with existing one ? right ? 
+from Nirajpatilpune to All Participants:
+no other file than config.xml ?
+from Swathi Balasubramanian to All Participants:
+on tht title - black bar on top
+from Swathi Balasubramanian to All Participants:
+near my name
+from Soni.Rashmita to All Participants:
+Hi Anuj, I am not able to sign in to jenkins, I used same credentials I used before, what to do
+from Srikarnelly to All Participants:
+yesterday it was there when you created an user
+from Swathi Balasubramanian to All Participants:
+ok. I am getting it with an alert . Ill check. thanks
+from muditvajpayee to All Participants:
+https://www.lazysystemadmin.com/2018/12/quick-howto-reset-jenkins-admin-password.html
+from muditvajpayee to All Participants:
+Use this KB to reset the password
+from Shubham Mathur to All Participants:
+i m using url outside vm but it is not working
+from saichaitanyac to All Participants:
+we need to activate lab before access the jenkins ...?
+from Srikarnelly to All Participants:
+yes
+from saichaitanyac to All Participants:
+as its installed on our lab setup
+from Dinesh.unna to All Participants:
+sir , yesterday downloaded in my windows jenkins,some plugins are not installed, some are installed
+from gsriar to All Participants:
+is only jenkins is required for this session, or use of github, tomcat also
+from Maramreddy.k to All Participants:
+Lanching Jenkins is D SAME WAY in realtime as well? or we only for practice we are launching this way? 
+from Shridhar.sai to All Participants:
+Not able to get into jenkins login screen
+from Vmt7468 to All Participants:
+Hi Anuj , I joined the session yesterday, So can you please share the github link for the study material 
+from Arindam.mallik to All Participants:
+lab not started yet
+from Anuj Sharma to All Participants:
+service jenkins restart
+from Arpitajain013 to All Participants:
+sure
+from PANKURI MAHAJAN to All Participants:
+lab not started yet..struck at 99 %
+from Swathi Balasubramanian to All Participants:
+click refresh
+from PANKURI MAHAJAN to All Participants:
+already done
+from Swathi Balasubramanian to All Participants:
+oh. that worked for me
+from PANKURI MAHAJAN to All Participants:
+now it is started
+from PANKURI MAHAJAN to All Participants:
+for me also
+from Anuj Sharma to All Participants:
+.
+from Anuj Sharma to All Participants:
+.
+from Shubham Mathur to All Participants:
+can one repository be used for parallel builds executions like i use your repository link in parallel
+from muditvajpayee to All Participants:
+Does it support oAuth ?
+from Anuj Sharma to All Participants:
+https://github.com/anujdevopslearn/MavenBuild
+from Arindam.mallik to All Participants:
+can u share General tab once?
+from muditvajpayee to All Participants:
+ok
+from Nirajpatilpune to All Participants:
+do we need to perfirm same configurations at our end under free style ?
+from Maunil078 to All Participants:
+Hi Anuj, 
+from Maunil078 to All Participants:
+When I paste repository URL , shown me an error , 
+from Maunil078 to All Participants:
+Failed to connect to repository : Command "git ls-remote -h https://github.com/Maunil11/gitrepo HEAD" returned status code 128:
+stdout:
+stderr: remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/Maunil11/gitrepo/'
+from Srikarnelly to All Participants:
+do i need to add your repository?
+from saichaitanyac to All Participants:
+what about the credentials ...?
+from Arindam.mallik to All Participants:
+credentials asks Jenkins under "Add"
+from Jacob.mani1704 to All Participants:
+what about the credentials if we use your Git??
+from Arindam.mallik to All Participants:
+
+can u share General tab once?
+from Srikarnelly to All Participants:
+yes please
+from saichaitanyac to All Participants:
+so we ae using your repository ... do we need to add ur credentials or as it is public one.. no need to add ?
+from Rajesh M to All Participants:
+Jacob.mani1704 : give ur github credential
+from Shivarajbe1 to All Participants:
+show general tab please'
+from Nirajpatilpune to All Participants:
+done 
+from Jacob.mani1704 to All Participants:
+on Anuj's Repository??
+from Rajesh M to All Participants:
+yes
+from Bhagavankrishna.b to All Participants:
+If we provide random password here how is Git is going to authenticate Jenkins? The credentials should be same git account including the password?
+from Nirajpatilpune to All Participants:
+I think his repository is public so you can set your password at your end 
+from Bhagavankrishna.b to All Participants:
+great, thanks
+from Maunil078 to All Participants:
+How to modify repositories entry in jenkins
+from Swathi Balasubramanian to All Participants:
+I gave correct UId/PWD for my repo but still getting error
+from Maramreddy.k to All Participants:
+plz scroll up?
+from Srikarnelly to All Participants:
+please go to general
+from Anuj Sharma to All Participants:
+http://anujsharma401ya.centralus.cloudapp.azure.com:8080/job/FreeStyle/configure
+from Anuj Sharma to All Participants:
+admin/admin
+from Maunil078 to All Participants:
+how to modify repositories entry in jenkins
+from Srk.guess to All Participants:
+I have created same crredentials 2 times. How we can delete / modify entries ?
+from Srk.guess to All Participants:
+Thank you
+from Jacob.mani1704 to All Participants:
+how to configure parameters?
+from muditvajpayee to All Participants:
+Please goto General Tab and select Project is PArameterised
+from Shubham Mathur to All Participants:
+you are getting (githubcreds) at the end. I am not getting this. Does it matters
+from muditvajpayee to All Participants:
+how to set dependencies among builds like output from one to input to another
+from muditvajpayee to All Participants:
+sure please 
+from Arpitajain013 to All Participants:
+agree
+from Arindam.mallik to All Participants:
+after Build click #1 amd #2 history is created
+from Arindam.mallik to All Participants:
+So Bamboo and Jenkins basic diff is Jenkins is open shource and Banboo is paid?
+from Goalhits to All Participants:
+which webserver jenkins has?
+from Reshma Umapathy to All Attendees:
+Done
+from Bhagavankrishna.b to All Participants:
+triggered, done
+from Swathi Balasubramanian to All Participants:
+done
+from saichaitanyac to All Participants:
+done
+from Nirajpatilpune to All Participants:
+done
+from Suriya1986 to All Participants:
+yes
+from Rajesh M to All Participants:
+done
+from Baskarhcl to All Participants:
+done
+from gsriar to All Participants:
+done
+from Arindam.mallik to All Participants:
+low voice
+from Goalhits to All Participants:
+low voice
+from gsriar to All Participants:
+issue with vooce
+from Nirajpatilpune to All Participants:
+low voice
+from Rajesh M to All Participants:
+yes
+from Nirajpatilpune to All Participants:
+yrdy
+from Arindam.mallik to All Participants:
+yes\
+from Nitesh.vit2011 to All Participants:
+yeah
+from Somyashree Padhi to All Participants:
+s
+from Jacob.mani1704 to All Participants:
+voice issues
+from Nirajpatilpune to All Participants:
+yes
+from Jacob.mani1704 to All Participants:
+ok now
+from Srikarnelly to All Participants:
+ERROR: Couldn't find any revision to build. Verify the repository and branch configuration for this job.
+Finished: FAILURE
+from Jacob.mani1704 to All Participants:
+how to get the token?
+from Swathi Balasubramanian to All Participants:
+you need to enter any string for a token
+from Nitesh.vit2011 to All Participants:
+from where did you get token from jenkin ???
+from Anuj Sharma to All Participants:
+http://anujsharma401ya.centralus.cloudapp.azure.com:8080/job/FreeStyle/buildWithParameters?token=VHFJ5685GJHFGC
+from Srikarnelly to All Participants:
+how to get the token?
+from Suriya1986 to All Participants:
+you can give any value for the token
+from Suriya1986 to All Participants:
+hard coded
+from Reshma Umapathy to All Attendees:
+Am getting this - You must use POST method to trigger builds. (From scripts you may instead pass a per-project authentication token, or authenticate with your API token.) If you see this page, it may be because a plugin offered a GET link; file a bug report for that plugin
+from Nirajpatilpune to All Participants:
+voice is very low 
+from Nirajpatilpune to All Participants:
+voice issue 
+from Nitesh.vit2011 to All Participants:
+no voice
+from Shivarajbe1 to All Participants:
+Voice is not clear
+from Ashwarya.sharma.us to All Participants:
+no voice
+from Shubham Mathur to All Participants:
+Reshma just Save changes and then hit URL
+from Maramreddy.k to All Participants:
+how to get the token? plz shot it again ?
+from Bhagavankrishna.b to All Participants:
+you need to go back to the orginal jenkins url or tab to see all the builds
+from Srk.guess to All Participants:
+Done.
+from muditvajpayee to All Participants:
+Token is just of handshaking
+from Shubham Mathur to All Participants:
+Can the token be dynamic like fetching from files and then hit URL
+from Arpitajain013 to All Participants:
+URI:    /job/p1/configure/job/p1/buildWithParameters
+STATUS:    404
+MESSAGE:    Not Found
+SERVLET:    Stapler
+
+from gsriar to All Participants:
+token is any random string
+from muditvajpayee to All Participants:
+How to trigger Build as soon as person check-in code in GIT
+from muditvajpayee to All Participants:
+Build Should not run on US Holidays altough if any person check in code during those days
+from muditvajpayee to All Participants:
+how to setup this as well
+from Nitesh.vit2011 to All Participants:
+what if have multiple jobs dependent ??
+from Nitesh.vit2011 to All Participants:
+more than 2 
+from muditvajpayee to All Participants:
+in this case will not be a circular path 
+from muditvajpayee to All Participants:
+How to create cron expression ?
+from Arindam.mallik to All Participants:
+if previous build is not done how build periodically works in that case?
+from Arindam.mallik to All Participants:
+how 0 and 7 are Sunday?
+from Kanupriyarchourey to All Participants:
+if any error come in between then where we can see the error
+from Maramreddy.k to All Participants:
+will this be useful in realtime?
+from Arpitajain013 to All Participants:
+Anuj, for cron jobs. does jenkins has to stay open on screen and connected to internet? Or how will the triggers work for cron?
+from Vem_rajesh to All Participants:
+
+I installed Jenkins in Ubuntu machine using GCP.
+I am not able to open the jenkins url from my laptop
+http://35.226.72.199:8080/
+
+from Bhagavankrishna.b to All Participants:
+if you are working in agile and in dev environments it is expected every day
+from Maramreddy.k to All Participants:
+ok
+from muditvajpayee to All Participants:
+yes
+from Nirajpatilpune to All Participants:
+when we schedule a build or build remotely then how to specify on which environment the build should be triggered 
+from Anuj Sharma to All Participants:
+H/2 * * * *
+from Arindam.mallik to All Participants:
+what is putty login and pwd?
+from Kanupriyarchourey to All Participants:
+how errors will handle in jenkins if any related to the runs
+from Arpitajain013 to All Participants:
+Anuj, for cron jobs. does jenkins has to stay open on screen and connected to internet? Or how will the triggers work for cron?
+from Arpitajain013 to All Participants:
+okay thanks.
+from Srikarnelly to All Participants:
+what are cron jobs?
+from muditvajpayee to All Participants:
+How to create Cron Expression for US Federal Holidays for a given year 
+from Goalhits to All Participants:
+which webserver jenkins uses
+from Arpitajain013 to All Participants:
+can we generate reports for our Jobs/builds via jenkins
+from Kanupriyarchourey to All Participants:
+okay thanks
+from Bkarim60 to All Participants:
+"which webserver jenkins uses" - uses Jetty app server as default but we can custom configure to use other webservers
+from muditvajpayee to All Participants:
+ok
+from muditvajpayee to All Participants:
+sure
+from Rajesh M to All Participants:
+with out any commits ?
+from muditvajpayee to All Participants:
+It should run as there is no commit to Git server
+from Karthikr80 to All Attendees:
+hi guys, missed 1st half hour... any quick summary... on how to start builds...
+from Karthikr80 to All Attendees:
+understood the build configurations... 
+from Bkarim60 to All Participants:
+@Rajesh - I believe Anuj already mentioned that 'Poll SCM' will poll every 2 minutes ( the current config) but WILL ONLY build if there are new commits/changes
+from Rajesh M to All Participants:
+ok 
+from Anuj Sharma to All Participants:
+https://github.com/anujdevopslearn/MavenBuild
+from Anuj Sharma to All Participants:
+H/2 * * * *
+from Bhagavankrishna.b to All Participants:
+done
+from Reshma Umapathy to All Attendees:
+done
+from saichaitanyac to All Participants:
+done
+from Nirajpatilpune to All Participants:
+done 
+from Rajesh M to All Participants:
+done
+from Swathi Balasubramanian to All Participants:
+done
+from Musaddiq86  to All Participants:
+i will do later when laptop will be up.
+from Srk.guess to All Participants:
+done
+from Dinesh.unna to All Participants:
+done
+from Suriya1986 to All Participants:
+done
+from Srikarnelly to All Participants:
+done
+from Arindam.mallik to All Participants:
+showing same time
+from saichaitanyac to All Participants:
+triggered
+from Jacob.mani1704 to All Participants:
+yes
+from Srk.guess to All Participants:
+yes
+from vidhu108@gmail.com to All Participants:
+yes
+from Soni.Rashmita to All Participants:
+triggered
+from Swathi Balasubramanian to All Participants:
+yes
+from Shubham Mathur to All Participants:
+yes
+from Nirajpatilpune to All Participants:
+success
+from Bhagavankrishna.b to All Participants:
+yes
+from Suriya1986 to All Participants:
+yes
+from Dinesh.unna to All Participants:
+triggered
+from Arpitajain013 to All Participants:
+yes can see new build for my repository
+from muditvajpayee to All Participants:
+Not able to hear
+from Arindam.mallik to All Participants:
+SCM MEANS ?
+from Rajesh M to All Participants:
+yes done sir
+from gsriar to All Participants:
+SCM version
+from Bhagavankrishna.b to All Participants:
+SCM - source control manager
+from Ashwarya.sharma.us to All Participants:
+could u pl share your credentials to use your gitrepo?
+from muditvajpayee to All Participants:
+I am not able to hear 
+from Soni.Rashmita to All Participants:
+SCM- Source Code Management
+from Kanupriyarchourey to All Participants:
+yes me too 
+from muditvajpayee to All Participants:
+Hi Anuj..I cant hear you
+from Bhagavankrishna.b to All Participants:
+voice is perfect
+from Swathi Balasubramanian to All Participants:
+clear for me
+from muditvajpayee to All Participants:
+I can now
+from muditvajpayee to All Participants:
+Sorry I missed what is the use of this token
+from muditvajpayee to All Participants:
+ok
+from Arindam.mallik to All Participants:
+Please show again Build Trigger option plz?
+from Nitesh.vit2011 to All Participants:
+no voice
+from Nirajpatilpune to All Participants:
+done 
+from Nirajpatilpune to All Participants:
+token generated 
+from Arindam.mallik to All Participants:
+GitHub hook trigger for GITScm polling?
+from muditvajpayee to All Participants:
+done
+from Soni.Rashmita to All Participants:
+done
+from Reshma Umapathy to All Attendees:
+done
+from saichaitanyac to All Participants:
+done
+from Kanupriyarchourey to All Participants:
+done 
+from Arpitajain013 to All Participants:
+done
+from Srk.guess to All Participants:
+done
+from Dinesh.unna to All Participants:
+done
+from sweta.gupta@dieboldnixdorf.com to All Participants:
+done
+from Swathi Balasubramanian to All Participants:
+done
+from Shubham Mathur to All Participants:
+yes
+from Srikarnelly to All Participants:
+after token is added what we need to do?
+from Rajesh M to All Participants:
+done
+from Goalhits to All Participants:
+your voice is breaking
+from Goalhits to All Participants:
+quite often
+from Srikarnelly to All Participants:
+anyone help me after token is generated what we need to do?
+from Anuj Sharma to All Participants:
+http://anujsharma401ya.centralus.cloudapp.azure.com:8080/github-webhook/
+from saichaitanyac to All Participants:
+wat about content type ?
+from Swathi Balasubramanian to All Participants:
+added
+from Maramreddy.k to All Participants:
+done
+from Arpitajain013 to All Participants:
+done
+from Bhagavankrishna.b to All Participants:
+we need to put our own jenkins server details in git repo?
+from Srikarnelly to All Participants:
+what if we are using your repo?
+from Arindam.mallik to All Participants:
+done
+from Srk.guess to All Participants:
+done
+from Arpitajain013 to All Participants:
+done
+from Rajesh M to All Participants:
+done
+from Nirajpatilpune to All Participants:
+done
+from Jacob.mani1704 to All Participants:
+How to get to this webhook page?
+from Suriya1986 to All Participants:
+Getting Invalid Http Response 405
+from Arpitajain013 to All Participants:
+Jacob:Go to github > open repository> setting >webhooks>add webhook > 
+from Patel.Manjeet to All Participants:
+Can you please tell again how to get payload url
+from Bhagavankrishna.b to All Participants:
+can you tell me what is gihub-webhook in the URL you provided?
+from Jacob.mani1704 to All Participants:
+got it. Thanks Arpita
+from Musaddiq86  to All Participants:
+how can i do this later? my laptop is down and i will get back on 4th or 6th june?
+from Srk.guess to All Participants:
+http://<yourusename>.centralus.cloudapp.azure.com:8080/github-webhook/
+from Anuj Sharma to All Participants:
+http://anujsharma401ya.centralus.cloudapp.azure.com:8080/github-webhook/
+from Kanupriyarchourey to All Participants:
+Sir ,i am practising most of the lab after class only based on the recording videos to avoid any confusions . do we have   community link as well so that questions can be posted.?
+from Nitesh.vit2011 to All Participants:
+done
+from Suriya1986 to All Participants:
+Done
+from Bhagavankrishna.b to All Participants:
+done
+from Patel.Manjeet to All Participants:
+done
+from Jacob.mani1704 to All Participants:
+done
+from Ashwarya.sharma.us to All Participants:
+done
+from Bkarim60 to All Participants:
+@Anuj - I guess the 172.* IP of the lab VM is not visible github.com hence the payload is failing?
+from Bkarim60 to All Participants:
+*visible to
+from Nitesh.vit2011 to All Participants:
+break ??
+from Kanupriyarchourey to All Participants:
+Thanks Anuj 
+from Jacob.mani1704 to All Participants:
+so the updates are triggered by Git not seeked by Jenkins?
+from Arun D to All Participants:
+Break?
+from Maramreddy.k to All Participants:
+Done.. I can see in my rep
+from Bkarim60 to All Participants:
+I used the public IP of the lab vm
+from Bkarim60 to All Participants:
+it works now
+from Arindam.mallik to All Participants:
+Cant see aything in GitHubHook
+from Arpitajain013 to All Participants:
+Invalid http response: 405
+from Nirajpatilpune to All Participants:
+superb done 
+from Goalhits to All Participants:
+what else is the difference between scm poll and webhook
+from Goalhits to All Participants:
+?
+from Swathi Balasubramanian to All Participants:
+i added webhook exactly as you said but it shows last delivery was not succesful. invalud hhttp response 405
+from Swathi Balasubramanian to All Participants:
+what am i doing incorrectly
+from Arpitajain013 to All Participants:
+same here,Invalid http response: 405
+from Ashwarya.sharma.us to All Participants:
+can anyone tell me how to generate then secret ket
+from Ashwarya.sharma.us to All Participants:
+i missed something
+from sweta.gupta@dieboldnixdorf.com to All Participants:
+What link need to be added in Payload URL?
+from Swathi Balasubramanian to All Participants:
+click on user- configure - create new token
+from Rajesh M to All Participants:
+Done
+from Ashwarya.sharma.us to All Participants:
+i see add new token
+from Bkarim60 to All Participants:
+
+@Ashwarya - on the Jenkins page click on your name on the top right hand corner
+then click configure
+then use the API section - default name - Jenkins - and then click generate
+from Arindam.mallik to All Participants:
+what configuratoin is done in the Job?
+from Swathi Balasubramanian to All Participants:
+can someone help with 405 error please
+from Bkarim60 to All Participants:
+"What link need to be added in Payload URL?"
+from Rajesh M to All Participants:
+405 error git hub ?
+from Swathi Balasubramanian to All Participants:
+yes
+from Rajesh M to All Participants:
+refresh the page again
+from Srk.guess to All Participants:
+http://<yourusername>.centralus.cloudapp.azure.com:8080/github-webhook/
+from Bkarim60 to All Participants:
+Your Jenkins url:8080/github-webhook
+from Srk.guess to All Participants:
+Please use this link with your username 
+from Swathi Balasubramanian to All Participants:
+i have given this only
+from Ashwarya.sharma.us to All Participants:
+good done
+from Ashwarya.sharma.us to All Participants:
+thanks for your help
+from Bkarim60 to All Participants:
+I went to whatsmyip website on the labvm - which gave me the publicip
+from Bhagavankrishna.b to All Participants:
+do we need to uncheck all the other options in BuildTriggers?
+from Bkarim60 to All Participants:
+then used 'publicip:8080/github-webhook' as the payload url
+from Bkarim60 to All Participants:
+probably not the most efficient way but it works for now
+from Arindam.mallik to All Participants:
+after adding Webhook any changesin Jenkins?
+from Bhagavankrishna.b to All Participants:
+what about Source Code Management, do we need still keep git option?
+from Arindam.mallik to All Participants:
+or github?
+from Bhagavankrishna.b to All Participants:
+I am using my own repository
+from Bkarim60 to All Participants:
+after updating the webhook you need to make some changes in one of your files in your github repo
+from Bkarim60 to All Participants:
+then the Jenkins should trigger a build immeditately
+from Jacob.mani1704 to All Participants:
+on Github, under webhooks i can it is successful. But nothing in Github hook log??
+from Bkarim60 to All Participants:
+on the left hand side of the Jenkins home page there should be a 'github webhook log' link
+from Srikarnelly to All Participants:
+can someone help how to add file in new public repo
+from Jacob.mani1704 to All Participants:
+yes , nothing in Github hook log in Jenkins
+from Bkarim60 to All Participants:
+I may be giving the wrong info , though it works for me, I would rather wait for Anuj
+from Jacob.mani1704 to All Participants:
+ok thanks
+from Arindam.mallik to All Participants:
+yes after WebHook setting and changing my file in github I can see Githib Gook log
+from Arindam.mallik to All Participants:
+Thanks
+from Bkarim60 to All Participants:
+"can someone help how to add file in new public repo" - in your githup repo , click one of the file and ther e should be a 'pencil' symbol next to 'history' button which stands for edit
+from Bkarim60 to All Participants:
+*one of your files
+from Bkarim60 to All Participants:
+click on the pencil symbol to edit the file , make some changes in the file and then use the commit button at the bottom of the page
+from Bhagavankrishna.b to All Participants:
+how do my job know when there is a commit to my git?
+from Bkarim60 to All Participants:
+it should update your file with the changes and if the webhook is setup correctly , Jenkins will trigger a new build
+from Srikarnelly to All Participants:
+after adding payload URL and token do we need to click on update webhook?
+from Bhagavankrishna.b to All Participants:
+I don't see any connection between jenkins job and my git repo
+from Rajesh M to All Participants:
+Srikarnelly : Yes
+from Nirajpatilpune to All Participants:
+m back
+from Srikarnelly to All Participants:
+new build has been triggered
+from muditvajpayee to All Participants:
+its done
+from Arindam.mallik to All Participants:
+have you changed Configuration in Job# in Jenkins to mention your github?
+from Bkarim60 to All Participants:
+yes
+from Arindam.mallik to All Participants:
+Build trigger option?
+from Srikarnelly to All Participants:
+yes i have made my repo public and then changed the job and performed these webhook steps
+from Bkarim60 to All Participants:
+checked "GitHub hook trigger for GITScm polling"
+from Bhagavankrishna.b to All Participants:
+Srikar, you need to update your git repo also under source control management
+from Bhagavankrishna.b to All Participants:
+see if you are still using Anuj's repo there
+from Reshma Umapathy to All Participants:
+Is break over? Are we back for the session?
+from Bhagavankrishna.b to All Participants:
+not yet
+from Reshma Umapathy to All Participants:
+Okay Bhagavan! :)
+from Srikarnelly to All Participants:
+i am using mine 
+from Arpitajain013 to All Participants:
+My issue is resolved, can see the webhook log.
+from Bhagavankrishna.b to All Participants:
+yes
+from Kanupriyarchourey to All Participants:
+yes
+from Rpalaani30 to All Participants:
+yes
+from Arindam.mallik to All Participants:
+yes
+from Rahul Shrivastava to All Participants:
+yes
+from Rajesh M to All Participants:
+yes sir
+from Arpitajain013 to All Participants:
+issue was : i didnt used slash at the end of payload URL
+from Swathi Balasubramanian to All Participants:
+yes
+from Reshma Umapathy to All Participants:
+Yeah
+from Maunil078 to All Participants:
+yes
+from Ashwarya.sharma.us to All Participants:
+yes
+from Musaddiq86  to All Participants:
+yes
+from PANKURI MAHAJAN to All Participants:
+yes
+from Arindam.mallik to All Participants:
+done
+from Jacob.mani1704 to All Participants:
+no
+from Babu Kannan to All Participants:
+yes
+from Jacob.mani1704 to All Participants:
+github shows successful, but no logs in Jenkins
+from muditvajpayee to All Participants:
+Can we have multiple web hooks from others users as well
+from Musaddiq86  to All Participants:
+How can get this done when my laptop is back?
+from Jacob.mani1704 to All Participants:
+http://jacobmani1704gm.centralus.cloudapp.azure.com:8080/
+from Jacob.mani1704 to All Participants:
+admin/admin
+from sweta.gupta@dieboldnixdorf.com to All Participants:
+Are you going to cover Maven?
+from Musaddiq86  to All Participants:
+I was'nt given any date yesterday?
+from Srk.guess to All Participants:
+Should our repository be public in GitHub to check Jenkin logs?
+from Srikarnelly to All Participants:
+if our repo is private, can we configure it with our credentials?
+from Musaddiq86  to All Participants:
+i dont know what happened yesterday?
+from Musaddiq86  to All Participants:
+Ok.
+from Jacob.mani1704 to All Participants:
+yes
+from Jacob.mani1704 to All Participants:
+edit>change
+from muditvajpayee to All Participants:
+Can we do such thing like if my primary datacenter is down my build will run on this event and deploy the code to secondary datacenters
+from Jacob.mani1704 to All Participants:
+http://jacobmani1704gm.centralus.cloudapp.azure.com:8080/github-webhook/
+from Jacob.mani1704 to All Participants:
+its ok, we can check on thsi at the end of the class
+from Ashwarya.sharma.us to All Participants:
+session freez
+from Rajesh M to All Attendees:
+Jacob please give ur repo
+from Srikarnelly to All Participants:
+@jacob check from your git hub account in webhook section
+from muditvajpayee to All Participants:
+is this will be a pre-Build process ?
+from muditvajpayee to All Participants:
+cool
+from muditvajpayee to All Participants:
+can I call a web API using shell script ?
+from Anuj Sharma to All Participants:
+date
+ls -alrt 
+uname -a
+from Swathi Balasubramanian to All Participants:
+can post build be used to build a chain of builds.. as in set a build order
+from Arindam.mallik to All Participants:
+how to se the result now?\
+from Arpitajain013 to All Participants:
+go to console output
+from Kanupriyarchourey to All Participants:
+i couldn't hear him .. session is on  right ?
+from Srikarnelly to All Participants:
+done
+from muditvajpayee to All Participants:
+it ran
+from Arun D to All Participants:
+No voice..
+from muditvajpayee to All Participants:
+yes
+from Srk.guess to All Participants:
+done
+from saichaitanyac to All Participants:
+everytime , do i need to update webhooks... only once it trigerred the build ..later on , if i do changes.., not creating build 
+from muditvajpayee to All Participants:
+not able to hear anything
+from muditvajpayee to All Participants:
+yes
+from Srikarnelly to All Participants:
+yes
+from Arindam.mallik to All Participants:
+yes
+from Arpitajain013 to All Participants:
+yes
+from Rajesh M to All Attendees:
+yes
+from Maramreddy.k to All Participants:
+yes
+from Reshma Umapathy to All Participants:
+So basically, execute shell is used to give some condition as shell script on which a build will be triggered in jenkins, right?
+from muditvajpayee to All Participants:
+its all we are doing using FreeStyle
+from saichaitanyac to All Participants:
+not getting any error at webhooks... what might be the issue.. its not trggering the build
+from Arindam.mallik to All Participants:
+what is uname -a?
+from Nitesh.vit2011 to All Participants:
+for the date we need to put condition ?
+from Nitesh.vit2011 to All Participants:
+in shell script
+from muditvajpayee to All Participants:
+is Jenkin SDK or APIs avaialble ?
+from Arindam.mallik to All Participants:
+what is uname -a?
+from Nitesh.vit2011 to All Participants:
+this script will pre Build ??
+from Nitesh.vit2011 to All Participants:
+run*
+from Ashwarya.sharma.us to All Participants:
+today quality is not good. lot of disturbance 
+from muditvajpayee to All Participants:
+no
+from Swathi Balasubramanian to All Participants:
+no
+from Arpitajain013 to All Participants:
+its fine
+from Arindam.mallik to All Participants:
+no
+from rohitl to All Participants:
+no
+from Srk.guess to All Participants:
+no
+from Goalhits to All Participants:
+no
+from Jacob.mani1704 to All Participants:
+no
+from Srikarnelly to All Participants:
+no
+from Rajesh M to All Attendees:
+no
+from Ashwarya.sharma.us to All Participants:
+not righht now
+from Kanupriyarchourey to All Participants:
+no
+from Nitesh.vit2011 to All Participants:
+Your screen is lagging
+from muditvajpayee to All Participants:
+ok
+from muditvajpayee to All Participants:
+can we also modify Pom.xml file and in which scenarios ?
+from muditvajpayee to All Participants:
+is this file an entry point of Build ?
+from Anuj Sharma to All Participants:
+https://github.com/anujdevopslearn/MavenBuild
+from Somyashree Padhi to All Participants:
+what is snapshot in the pom.xml ?
+from muditvajpayee to All Participants:
+ok
+from Arindam.mallik to All Participants:
+I am not seeing this dropdown
+from Arindam.mallik to All Participants:
+now I can
+from Anuj Sharma to All Participants:
+2 mins
+from Anuj Sharma to All Participants:
+voice disconnected reconnecting
+from Musaddiq86  to All Participants:
+there is some green thingy in the middle of the screen.
+from Rahul Shrivastava to All Participants:
+no voice ?
+from sweta.gupta@dieboldnixdorf.com to All Participants:
+No voice
+from muditvajpayee to All Participants:
+getting error
+from muditvajpayee to All Participants:
+The goal you specified requires a project to execute but there is no POM in this directory (/home/muditvajpayeeya). Please verify you invoked Maven from the correct directory.
+from koteeswaran kandasamy to All Participants:
+yes..can you check your internet speed Anuj?
+from koteeswaran kandasamy to All Participants:
+we get some geen mesh screen
+from Arpitajain013 to All Participants:
+hes away for 2 mins
+from Anuj Sharma to All Participants:
+mvn clean        To clean temporary build files
+mvn clean install      To clean and prepare the build from source code
+mvn clean test        To clean and execute the unit test cases
+from Jacob.mani1704 to All Participants:
+pls send your gitrepo
+from Ashwarya.sharma.us to All Participants:
+we dont have pom so need to use your repo
+from Bkarim60 to All Participants:
+https://github.com/anujdevopslearn/MavenBuild.git
+from Bhagavankrishna.b to All Participants:
+voice not clear
+from Jacob.mani1704 to All Participants:
+thnx karim
+from Bkarim60 to All Participants:
+nws
+from Anuj Sharma to All Participants:
+https://github.com/anujdevopslearn/GradleBuild
+from Maramreddy.k to All Participants:
+done 
+from Jacob.mani1704 to All Participants:
+done
+from Bhagavankrishna.b to All Participants:
+done
+from Arpitajain013 to All Participants:
+done
+from Arindam.mallik to All Participants:
+after configure I can not see any new build history
+from Swathi Balasubramanian to All Participants:
+if say test fails, then will install happen?
